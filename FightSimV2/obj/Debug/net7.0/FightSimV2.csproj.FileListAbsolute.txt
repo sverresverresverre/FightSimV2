@@ -1,0 +1,14 @@
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\bin\Debug\net7.0\FightSimV2.exe
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\bin\Debug\net7.0\FightSimV2.deps.json
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\bin\Debug\net7.0\FightSimV2.runtimeconfig.json
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\bin\Debug\net7.0\FightSimV2.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\bin\Debug\net7.0\FightSimV2.pdb
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.AssemblyInfoInputs.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.AssemblyInfo.cs
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.csproj.CoreCompileInputs.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\refint\FightSimV2.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.pdb
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\FightSimV2.genruntimeconfig.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\FightSimV2\FightSimV2\obj\Debug\net7.0\ref\FightSimV2.dll
