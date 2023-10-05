@@ -1,4 +1,10 @@
 ﻿Random generator = new Random();
+bool game = true;
+
+string restart;
+
+while (game)
+{
 
 int p1Hp = 100;
 int p2Hp = 100;
@@ -62,6 +68,18 @@ else
     Console.WriteLine($"\n{fighter1} vann!");
 }
 
+Console.WriteLine("Play again?\ny/n\n");
+
+restart = Console.ReadLine();
+
+if (restart == "y")
+{
+    continue;
+}
+else
+{
+    break;
+}
 
 
-Console.ReadKey();
+}
