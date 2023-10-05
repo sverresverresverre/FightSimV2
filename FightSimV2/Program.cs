@@ -8,7 +8,22 @@ Console.WriteLine("Välkommen till Fight Club!");
 Console.WriteLine("Vad är ditt namn.");
 string fighter1 = Console.ReadLine();
 
-string fighter2 = $"Onda {fighter1}";
+string fighter2;
+
+int p2Name = generator.Next(4);
+
+if (p2Name == 1)
+{
+    fighter2 = "Micke B";
+}
+else if (p2Name == 2)
+{
+    fighter2 = "Kung Calle";
+}
+else
+{
+    fighter2 = "Piiz Kiz";
+}
 
 
 
@@ -36,15 +51,15 @@ while (p1Hp > 0 && p2Hp > 0)
 
 if (p1Hp == 0 && p2Hp == 0)
 {
-    Console.WriteLine("OAVGJORT");
+    Console.WriteLine("\nOAVGJORT");
 }
 else if (p1Hp == 0)
 {
-    Console.WriteLine($"{fighter2} vann!");
+    Console.WriteLine($"\n{fighter2} vann!");
 }
 else
 {
-    Console.WriteLine($"{fighter1} vann!");
+    Console.WriteLine($"\n{fighter1} vann!");
 }
 
 
